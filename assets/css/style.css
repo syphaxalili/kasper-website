@@ -266,7 +266,7 @@ header .container nav .search-icon-container i {
     width: 100%;
     position: relative;
     background-color: cadetblue;
-    background-image: url(/assets/images/landing.jpg);
+    background-image: url(assets/images/landing.jpg);
     background-size: cover;
 }
 
@@ -413,7 +413,7 @@ header .container nav .search-icon-container i {
     display: flex;
     /* justify-content: space-evenly; */
     align-items: center;
-    background-image: url(/assets/images/design-features.jpg);
+    background-image: url(assets/images/design-features.jpg);
     background-size: cover;
     position: relative;
     overflow: hidden;
@@ -635,7 +635,7 @@ video .video-container::before {
 .stats {
     padding-top: var(--padding-section-top);
     padding-bottom: var(--padding-section-bottom);
-    background-image: url(/assets/images/stats.png);
+    background-image: url(assets/images/stats.png);
     background-size: cover;
     position: relative;
     text-align: center;
@@ -876,7 +876,7 @@ video .video-container::before {
 .quote {
     padding-top: var(--padding-section-top);
     padding-bottom: var(--padding-section-bottom);
-    background-image: url(/assets/images/quote.jpg);
+    background-image: url(assets/images/quote.jpg);
     background-size: cover;
     position: relative;
     color: white;
@@ -1033,7 +1033,7 @@ video .video-container::before {
 .email {
     padding-top: var(--padding-section-top);
     padding-bottom: var(--padding-section-bottom);
-    background-image: url(/assets/images/subscribe.jpg);
+    background-image: url(assets/images/subscribe.jpg);
     background-size: cover;
     position: relative;
 }
@@ -1226,7 +1226,7 @@ video .video-container::before {
 footer {
     padding-top: calc(var(--padding-section-top) / 2);
     padding-bottom: calc(var(--padding-section-bottom) / 2);
-    background-image: url(/assets/images/subscribe.jpg);
+    background-image: url(assets/images/subscribe.jpg);
     background-size: cover;
     position: relative;
 }
