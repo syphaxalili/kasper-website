@@ -1,3 +1,3 @@
 ## Live Demo
 
-Check out the live demo [here](https://syphaxalili.github.io/kasper-website/).
+Découvrez la démo en direct [ici](https://syphaxalili.github.io/kasper-website/).
